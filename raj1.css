@@ -8,7 +8,10 @@ p {
     margin-right: 20px;
 }
 
-.P {
+#mainpara {
+    background-image: URL("3.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
 
-   background-image: URL({FOREST.jpg);
+    color: rgba(199, 199, 29, 0.98);
 }
